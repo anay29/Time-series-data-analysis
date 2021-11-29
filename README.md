@@ -1,1 +1,1 @@
-# Time-series-data-analysis
+# Time-series-data-analysis using ARIMA and SARIMA
